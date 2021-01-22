@@ -6,7 +6,7 @@
     color: #02ccba;
   }
 
-  body {
+body {
     font-family: "Avenir Next" ;
 }  
 
@@ -16,7 +16,7 @@
     height: 90px;
   }
 
-  .main {
+.main {
     padding: 100px 80px;
 }
 
@@ -24,7 +24,7 @@
     font-size: 80px;
 }
 
-  .copy-container h2 {
+.copy-container h2 {
     font-size: 60px;
 }
 
@@ -52,7 +52,14 @@
     margin-top: 30px;
 }
 
-  li {
+.container {
+    /* widthを100%にしてください */
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+
+li {
     list-style: none;
     float: left;
     padding: 33px 20px;
