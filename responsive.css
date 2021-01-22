@@ -1,5 +1,5 @@
 @media (max-width: 1000px) {
- .contents-item {
+ .contents {
     width: 50%;
     margin-bottom: 50px;
  }
@@ -8,7 +8,7 @@
 }
 
 @media (max-width: 670px) {
- .contents-item {
+ .contents {
     width: 100%;
   }  
 }
