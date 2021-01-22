@@ -37,7 +37,7 @@
 }
 
 .contents-item {
-    margin-right: 35px;
+    margin-right: 36px;
     float: left;
 }
 
@@ -67,7 +67,7 @@
     padding-top: 100px;
 }
 
-input,textarea {
+input, textarea {
     width: 400px;
     margin-top: 10px;
     margin-bottom: 30px;
@@ -95,8 +95,8 @@ input,textarea {
   }
 
 .footer {
-      background-color: #2f5167;
-      color: #fff;
-      height: 120px;
-      padding: 40px;
-  }
+    background-color: #2f5167;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+}
