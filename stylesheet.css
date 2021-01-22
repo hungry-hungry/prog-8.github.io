@@ -20,6 +20,10 @@ body {
     padding: 100px 80px;
 }
 
+.copy-container {
+    text-align: center;
+}
+
 .copy-container h1 {
     font-size: 80px;
 }
